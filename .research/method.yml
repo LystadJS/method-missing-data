@@ -1,0 +1,22 @@
+schema_version: '1.0'
+method:
+  id: missing-data
+  label: Missing Data and Measurement
+  repository: LystadJS/method-missing-data
+  status: planned
+  summary: Methods for inference, sensitivity, and measurement under incomplete or
+    imperfectly observed data.
+  family: []
+  aliases:
+  - Missing Data and Measurement
+  - missing data
+  techniques:
+  - multiple-imputation
+  - mice
+  - missingness-diagnostics
+  - sensitivity-analysis
+  related_methods:
+  - statistical-computing
+  languages:
+  - R
+  - Python
